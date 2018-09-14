@@ -1,8 +1,8 @@
-# p8105_example
 
 ---
 title: "Simple document"
 output: html_document
+knitr::knit
 ---
 
 I'm an R Markdown document! 
